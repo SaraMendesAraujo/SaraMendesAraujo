@@ -1,7 +1,7 @@
 ### Olá, sou a Sara :)
 
-- 🔭 Atualmente trabalho com finança e estou fazendo transição de carreira
-- 🌱 Estudando Javascript
+- 🔭 Atualmente trabalho como analista financeiro e estou fazendo transição de carreira para programação.
+- 🌱 Estudando Javascript / HTML5/ CSS3
 - 😄 Pronouns: Ela/ Dela
 
 <div>
